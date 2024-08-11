@@ -1,6 +1,6 @@
-# Curvetopedia
+# CURVETOPIA
 
-Curvetopedia is a project focused on analyzing and regularizing hand-drawn shapes. It has three main features:
+CURVETOPIA is a project focused on analyzing and regularizing hand-drawn shapes. It has three main features:
 
 ## Features
 
