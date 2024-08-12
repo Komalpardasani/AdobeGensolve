@@ -31,5 +31,11 @@ CURVETOPIA is a project focused on analyzing and regularizing hand-drawn shapes.
 
 3. **Detecting Hand-Drawn Shapes Using CAN**
    - This feature detects shapes in hand-drawn images using a CNN (Convolutional Neural Network).
+   - Code written implements a Convolutional Neural Network (CNN) to classify hand-drawn shapes into categories such as ellipse, rectangle, triangle, and other.
+   - It begins by importing necessary libraries for image processing and machine learning, then prepares the data by loading and normalizing images from a dataset.
+   - The images are split into training, validation, and test sets.
+   - A CNN model is defined with several convolutional layers to extract features, pooling layers to reduce dimensionality, and dense layers to make final 
+     predictions.
+   - Finally, the training and validation losses and accuracies are plotted to visualize the model's performance over time.
    - Here is the example image for this feature:
      ![Shape Detection Image](ShapeDetection.png)
