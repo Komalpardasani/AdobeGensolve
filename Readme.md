@@ -10,10 +10,15 @@ CURVETOPIA is a project focused on analyzing and regularizing hand-drawn shapes.
    - It initially reads shape points from a CSV file and convert them into a NumPy array and then groups points into clusters to identify separate shapes using 
      DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
    - Determined the symmetry lines of a shape based on its point coordinates and used matplotlib to show the final image with shapes and symmetry lines.  
-   - Here are the example images for this feature:
-     Symmetry detected in rectangle,circle and star.
-     ![Symmetry Image 1](symmetry1.png) 
-     ![Symmetry Image 2](symmetry2.png) Symmetry detected in square and circle.
+   Here are the example images for this feature:
+
+- **Symmetry detected in rectangle, circle, and star:**
+
+  ![Symmetry Image 1](symmetry1.png)
+
+- **Symmetry detected in square and circle:**
+
+  ![Symmetry Image 2](symmetry2.png)
      
 
 2. **Regularizing Hand-Drawn Shapes**
